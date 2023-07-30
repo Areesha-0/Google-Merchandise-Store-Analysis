@@ -26,4 +26,4 @@ The analysis of the Google Merchandise Store dataset focuses on several key area
 Google Merchandise Store data in BigQuery: [Dataset](https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset) <br>
 Pandas Documentation: [link](https://pandas.pydata.org/docs/) <br>
 Matplotlib Documentation: [link](https://matplotlib.org/stable/users/index.html) <br>
-Seaborn Documentation: [link](https://seaborn.pydata.org/tutorial.html)https://seaborn.pydata.org/tutorial.html) <br>
+Seaborn Documentation: [link](https://seaborn.pydata.org/tutorial.html) <br>
